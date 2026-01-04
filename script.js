@@ -1,2 +1,2 @@
 document.body.innerHTML = 'Hello from JavaScript'
-console.log('Test git2')
+console.log('Test !!!')
